@@ -4,5 +4,3 @@ Pillow
 tensorflow
 tensorflow-hub
 tensorflow-metal
-jinja2
-pdfkit
